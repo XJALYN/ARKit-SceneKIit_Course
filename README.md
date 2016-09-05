@@ -17,3 +17,8 @@ learning resource (SceneKit)
 
 * 讲解游戏中几种灯光的使用
 * 请参考[简书](http://www.jianshu.com/p/ad0eead10499)
+
+## OSScenekit_04
+
+* 讲解游戏中照相机的使用
+* 请参考[简书](http://www.jianshu.com/p/00e64dadb4ae)
