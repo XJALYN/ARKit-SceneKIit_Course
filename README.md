@@ -22,3 +22,8 @@ learning resource (SceneKit)
 
 * 讲解游戏中照相机的使用
 * 请参考[简书](http://www.jianshu.com/p/00e64dadb4ae)
+
+## OSScenekit_05
+
+* 讲解游戏中常用到的行为动画
+* 请参考[简书](http://www.jianshu.com/p/c0b546a84e20)
