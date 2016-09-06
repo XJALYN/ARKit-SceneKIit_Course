@@ -32,3 +32,13 @@ learning resource (SceneKit)
 
 * 讲解常用的几何对象
 * 请参考[简书](http://www.jianshu.com/p/2649c2a09e96)
+
+## OSSceneKit_God_01
+
+* 掉落的3D文字
+* 请参考[简述](http://www.jianshu.com/p/d5c0639671b2)
+
+## OSSceneKit_God_02
+
+* 3D 弹幕来袭
+* 请参考[简述](http://www.jianshu.com/p/88ab9386db26)
