@@ -27,3 +27,8 @@ learning resource (SceneKit)
 
 * 讲解游戏中常用到的行为动画
 * 请参考[简书](http://www.jianshu.com/p/c0b546a84e20)
+
+## OSSceneKit_06
+
+* 讲解常用的几何对象
+* 请参考[简书](http://www.jianshu.com/p/2649c2a09e96)
