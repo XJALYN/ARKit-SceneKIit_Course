@@ -53,5 +53,6 @@ learning resource (SceneKit)
 * 3D 弹幕来袭
 * 请参考[简述](http://www.jianshu.com/p/88ab9386db26)
 
+## OSSceneKit_God_03
 * Navigationbar 上的3D Title的实现
 * 请参考[简述](http://www.jianshu.com/p/414d22e0c2f2)
