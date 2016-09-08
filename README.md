@@ -33,6 +33,11 @@ learning resource (SceneKit)
 * 讲解常用的几何对象
 * 请参考[简书](http://www.jianshu.com/p/2649c2a09e96)
 
+## OSSceneKit_07
+
+* 详细讲解材质的作用
+* 请参考[简述](http://www.jianshu.com/p/522903903eed)
+
 ## OSSceneKit_God_01
 
 * 掉落的3D文字
