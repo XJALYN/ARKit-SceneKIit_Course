@@ -36,14 +36,22 @@ learning resource (SceneKit)
 ## OSSceneKit_07
 
 * 详细讲解材质的作用
-* 请参考[简述](http://www.jianshu.com/p/522903903eed)
+* 请参考[简书](http://www.jianshu.com/p/522903903eed)
+
+## OSSceneKit_mid_01
+
+* 讲解模型动画的过渡用法
+* 请参考[简书](http://www.jianshu.com/p/ec49bdc97bde)
 
 ## OSSceneKit_God_01
 
 * 掉落的3D文字
-* 请参考[简述](http://www.jianshu.com/p/d5c0639671b2)
+* 请参考[简书](http://www.jianshu.com/p/d5c0639671b2)
 
 ## OSSceneKit_God_02
 
 * 3D 弹幕来袭
 * 请参考[简述](http://www.jianshu.com/p/88ab9386db26)
+
+* Navigationbar 上的3D Title的实现
+* 请参考[简述](http://www.jianshu.com/p/414d22e0c2f2)
