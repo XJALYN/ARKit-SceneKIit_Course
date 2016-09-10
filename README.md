@@ -45,6 +45,11 @@ learning resource (SceneKit)
 * 简单介绍物理世界存在的几种粒子系统
 * 请参考[简书](http://www.jianshu.com/p/f0f4c4a559ba)
 
+## OSSceneKit_10
+
+* 介绍几种物理行为,简单演示了如何使用物理行为
+* 请参考[简书](http://www.jianshu.com/p/b0d3a64a0f3a)
+
 ## OSSceneKit_mid_01
 
 * 讲解模型动画的过渡用法
