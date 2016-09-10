@@ -6,8 +6,6 @@ learning resource (SceneKit)
 * 请参考[简书](http://www.jianshu.com/p/fbc7888d62cc)
 
 ## OSScenekit_02
-
-
 * 讲解场景和节点的概念
 * 如何创建一个场景
 * 如何给场景中添加节点
@@ -37,6 +35,15 @@ learning resource (SceneKit)
 
 * 详细讲解材质的作用
 * 请参考[简书](http://www.jianshu.com/p/522903903eed)
+
+## OSSceneKit_08
+* 简单讲解常用的几种物理身体
+* 请参考[简书](http://www.jianshu.com/p/303c7f855059)
+
+## OSSceneKit_09
+
+* 简单介绍物理世界存在的几种粒子系统
+* 请参考[简书](http://www.jianshu.com/p/f0f4c4a559ba)
 
 ## OSSceneKit_mid_01
 
