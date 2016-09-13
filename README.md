@@ -50,10 +50,23 @@ learning resource (SceneKit)
 * 介绍几种物理行为,简单演示了如何使用物理行为
 * 请参考[简书](http://www.jianshu.com/p/b0d3a64a0f3a)
 
+## OSSceneKit_11
+
+* 简单的使用骨骼动画
+* 请参考[简书](http://www.jianshu.com/p/7296e93a042d)
+
+
+----
+
 ## OSSceneKit_mid_01
 
 * 讲解模型动画的过渡用法
 * 请参考[简书](http://www.jianshu.com/p/ec49bdc97bde)
+
+## OSSceneKit_mid_02
+
+* 讲解游戏中的视角切换
+* 请参考[简书](http://www.jianshu.com/p/4c7bcedaf598)
 
 ## OSSceneKit_God_01
 
