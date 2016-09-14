@@ -68,6 +68,16 @@ learning resource (SceneKit)
 * 讲解游戏中的视角切换
 * 请参考[简书](http://www.jianshu.com/p/4c7bcedaf598)
 
+## OSSceneKit_mid_03
+
+* 讲解视角切换的用法
+* 请参考[简书](http://www.jianshu.com/p/4c7bcedaf598)
+
+## OSSceneKit_mid_04
+
+* 讲解游戏中的几种约束
+* 请参考[简书](http://www.jianshu.com/p/af101006b71d)
+
 ## OSSceneKit_God_01
 
 * 掉落的3D文字
