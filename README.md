@@ -78,6 +78,11 @@ learning resource (SceneKit)
 * 讲解游戏中的几种约束
 * 请参考[简书](http://www.jianshu.com/p/af101006b71d)
 
+## OSSceneKit_mid_05
+
+* 讲解游戏中各种力的使用方法
+* 请参考[简书](http://www.jianshu.com/p/84437a5efb16)
+
 ## OSSceneKit_God_01
 
 * 掉落的3D文字
