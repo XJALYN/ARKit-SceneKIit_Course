@@ -83,6 +83,11 @@ learning resource (SceneKit)
 * 讲解游戏中各种力的使用方法
 * 请参考[简书](http://www.jianshu.com/p/84437a5efb16)
 
+## OSSceneKit_mid_06
+
+* 讲解游戏场景切换
+* 请参考[简书](http://www.jianshu.com/p/aa836839bc7a)
+
 ## OSSceneKit_God_01
 
 * 掉落的3D文字
