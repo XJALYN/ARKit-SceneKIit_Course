@@ -88,10 +88,17 @@ learning resource (SceneKit)
 * 讲解游戏场景切换
 * 请参考[简书](http://www.jianshu.com/p/aa836839bc7a)
 
+## OSSceneKit_mid_07
+
+* 讲解游戏中动态修改节点属性
+* 请参考[简书](http://www.jianshu.com/p/6381d53e5426)
+
 ## OSSceneKit_God_01
 
 * 掉落的3D文字
 * 请参考[简书](http://www.jianshu.com/p/d5c0639671b2)
+
+
 
 ## OSSceneKit_God_02
 
