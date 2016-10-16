@@ -93,6 +93,11 @@ learning resource (SceneKit)
 * 讲解游戏中动态修改节点属性
 * 请参考[简书](http://www.jianshu.com/p/6381d53e5426)
 
+## OSSceneKit_mid_08
+
+* 讲解游戏中阴影的使用
+* 请参考[简书](http://www.jianshu.com/p/56c53fe92291)
+
 ## OSSceneKit_God_01
 
 * 掉落的3D文字
