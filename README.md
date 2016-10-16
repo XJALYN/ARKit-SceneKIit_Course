@@ -98,6 +98,18 @@ learning resource (SceneKit)
 * 讲解游戏中阴影的使用
 * 请参考[简书](http://www.jianshu.com/p/56c53fe92291)
 
+## OSSceneKit_mid_09
+
+* 讲解碰撞检测
+* 请参考[简书](http://www.jianshu.com/p/815291086b62)
+
+---
+## OSSceneKit_high_01
+* SceneKit和GLSL的完美结合
+* 请参考[简书](http://www.jianshu.com/p/78eda967c08e)
+
+
+---
 ## OSSceneKit_God_01
 
 * 掉落的3D文字
