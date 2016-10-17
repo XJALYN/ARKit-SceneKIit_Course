@@ -108,6 +108,10 @@ learning resource (SceneKit)
 * SceneKit和GLSL的完美结合
 * 请参考[简书](http://www.jianshu.com/p/78eda967c08e)
 
+## OSSceneKit_high_06
+* SceneKit加载顶点、纹理、法线坐标
+* 请参考[简书](http://www.jianshu.com/p/6f106b6e6440)
+
 
 ---
 ## OSSceneKit_God_01
