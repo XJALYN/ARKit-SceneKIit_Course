@@ -117,6 +117,10 @@ learning resource (SceneKit)
 * SceneKit加载顶点、纹理、法线坐标
 * 请参考[简书](http://www.jianshu.com/p/6f106b6e6440)
 
+## OSSceneKit_high_07
+* SceneKit 着色器程序的高级用法
+* 请参考[简书](http://www.jianshu.com/p/5635c6502f88)
+
 
 ---
 ## OSSceneKit_God_01
