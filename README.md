@@ -103,6 +103,11 @@ learning resource (SceneKit)
 * 讲解碰撞检测
 * 请参考[简书](http://www.jianshu.com/p/815291086b62)
 
+## OSSceneKit_mid_10
+
+* 讲解SceneKit 中滤镜效果的实现过程
+* 请参考[简书](http://www.jianshu.com/p/a0c9ca046084)
+
 ---
 ## OSSceneKit_high_01
 * SceneKit和GLSL的完美结合
