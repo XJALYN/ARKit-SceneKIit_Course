@@ -121,6 +121,10 @@ learning resource (SceneKit)
 * SceneKit 着色器程序的高级用法
 * 请参考[简书](http://www.jianshu.com/p/5635c6502f88)
 
+## OSSceneKit_high_08
+* SceneKit 天空盒子制作
+* 请参考[简书](http://www.jianshu.com/p/2aa1b87b9d4b)
+
 
 ---
 ## OSSceneKit_God_01
